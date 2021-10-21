@@ -15,7 +15,7 @@
       "setup": "javac WhileLoops.java",
       "run": "java WhileLoops",
       "input": "0",
-      "output": "\r\n0\r\n0",
+      "output": "\r\n0\r\n1",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -35,7 +35,7 @@
       "setup": "javac WhileLoops.java",
       "run": "java WhileLoops",
       "input": "-1",
-      "output": "\r\n0\r\n0",
+      "output": "\r\n0\r\n1",
       "comparison": "included",
       "timeout": 10,
       "points": null
