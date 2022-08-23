@@ -1,5 +1,7 @@
 # While Loops
 
+## Due: DoW MM/DD at 11:59 PM
+
 - Create a program called `WhileLoops.java`
 - Prompt the user for a number
 - Using a while loop, print the square of all numbers from 1 to that number
