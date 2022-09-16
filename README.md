@@ -12,3 +12,14 @@
   - Remember, factorial is the product of an integer and all the integers below it
   - Ex. 4 factorial (written as 4!) is 4 * 3 * 2 * 1 which is 24
 - Print the factorial
+
+***Example Input:***\
+4\
+***Example Output:***\
+1\
+4\
+9\
+16\
+\
+10\
+24
