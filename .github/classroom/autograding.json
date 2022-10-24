@@ -29,16 +29,6 @@
       "comparison": "included",
       "timeout": 10,
       "points": null
-    },
-    {
-      "name": "-1",
-      "setup": "javac WhileLoops.java",
-      "run": "java WhileLoops",
-      "input": "-1",
-      "output": "\r\n0\r\n1",
-      "comparison": "included",
-      "timeout": 10,
-      "points": null
     }
   ]
 }
