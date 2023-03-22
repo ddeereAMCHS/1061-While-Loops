@@ -7,7 +7,7 @@
       "input": "4",
       "output": "1\r\n4\r\n9\r\n16\r\n\r\n10\r\n24",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -17,7 +17,7 @@
       "input": "0",
       "output": "\r\n0\r\n1",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -27,7 +27,7 @@
       "input": "5",
       "output": "1\r\n4\r\n9\r\n16\r\n25\r\n\r\n15\r\n120",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     }
   ]
