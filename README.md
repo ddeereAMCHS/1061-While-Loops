@@ -1,6 +1,6 @@
 # While Loops
 
-## Due: Tue 10/25 at 11:59 PM
+## Due: Wed 10/25 at 11:59 PM
 
 - Create a program called `WhileLoops.java`
 - Prompt the user for a number
